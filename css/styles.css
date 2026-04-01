@@ -1,0 +1,60 @@
+body {
+    background-color: #e6ccb2;
+    font-family: Helvetica, sans-serif;
+    color: #9c6644;
+}
+
+.page-title {
+    text-align: center;
+    font-family: "Bitcount Grid Double";
+    font-size: 90px;
+    color: #582f0e;
+}
+
+.recipe-list {
+    width: 300px;
+    margin: 0px auto;
+    background-color: #ddb892;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.recipe {
+    display: block;
+    text-align: center;
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: #9c6644;
+}
+
+.recipe-box {
+    box-sizing: border-box;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #ede0d4;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.image {
+    display: block;
+    width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+p, li {
+    font-size: 20px;
+}
+
+#go-back-btn {
+    background-color: #582f0e;
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 100;
+}
